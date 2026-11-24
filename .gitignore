@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Compiled binaries
 FCFS
 SJF
 *.o
 *.out
+=======
+*.pdf
+>>>>>>> 81807c2 (add solution 2)
